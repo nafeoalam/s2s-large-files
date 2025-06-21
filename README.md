@@ -2,6 +2,8 @@
 
 A scalable video processing system built with microservices architecture, featuring large files upload like video, PDF etc, processing, and storage capabilities.
 
+![image](https://github.com/user-attachments/assets/77594276-d8ce-4b02-977f-3d20e7601cb1)
+
 ## Architecture
 
 This system consists of the following services:
